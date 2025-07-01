@@ -1,0 +1,8 @@
+Step-1:Make sure you have downloaded everything from the zip file in the same folder in your device.
+
+Step-2: Open XAMPP, and choose a suitable folder to run the php files and make sure the server is running.
+
+Step-3: Enter the Username and Password
+            Username= Huddersfield
+            Password= hud123
+Step-4: You can now access everything inside the website, enjoy!!
